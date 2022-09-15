@@ -1,4 +1,4 @@
-# Sensible ETF Investment Strategy
+# Passive ETF Investment Strategy
 
 The intent of this strategy is to be applicable to general public who want to invest without worrying about the status of investments.
 
@@ -12,7 +12,7 @@ This section is a reference guide as a supplement to the subsequent sections wit
 
 The aim is to invest in broad market Exchange Traded Funds (ETFs) that have a low expense ratio and represent a diversified basket portfolio of equities.
 
-### Common Knowledge
+### Common Terminology
 
 The process of passive investing in ETFs can be referred to as [Dollar Cost Averaging (DCA)](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) and a small proportion (e.g. 10% - 15%) of every pay should be automatically deposited in a brokerage and the relevant amount of ETFs purchased.
 
@@ -35,7 +35,7 @@ Purchase shares of one or two total market ETFs.
 
 ### Thesis
 
-Human industry, hard work, growing population, improved technology, and orderly central bank & government policies contribute to secular improvements in global or regional economies.
+Human industry, hard work, growing population, improved technology, orderly central bank, and favourable government policies contribute to secular improvements in global or regional economies.
 
 ### Portfolio
 
@@ -74,8 +74,8 @@ This portfolio time horizon is between 3 months to 12 months between rebalancing
 
 | Risk on                             | Risk off                            |
 | :---------------------------------- | :---------------------------------- |
-| US market ETF: 60% of porfolio      | US market ETF: 60% of porfolio      |
-| Global market ETF: 40% of portfolio | Global market ETF: 40% of portfolio |
+| US market ETF: 60% of porfolio      | US market ETF: 40% of porfolio      |
+| Global market ETF: 40% of portfolio | Global market ETF: 60% of portfolio |
 
 For example, with a $500 monthly deposit, purchase:
 
@@ -167,7 +167,7 @@ There are thousands of ETFs. The ones listed in these tables are a subset for pu
 
 Using backtesting provided by [ETF Replay](https://www.etfreplay.com/combine.aspx) for a 10 year period between Sep 14, 2012 - Sep 14, 2022, the following results are provided for the three strategies:
 
-For comparison, an total all-world market ([BNCH](https://www.etfreplay.com/etf/bnch.aspx)) is provided as a baseline, which is a synthetic portfolio comprising of 60% all-world equities and 40% all-world bonds, representing one of the most diversified possible portfolios.
+For comparison, an total all-world market ([BNCH](https://www.etfreplay.com/etf/bnch.aspx)) is provided as a baseline, which is a synthetic portfolio comprising of 60% all-world equities and 40% all-world bonds, representing one of the most diversified portfolios possible.
 
 <div style="page-break-after: always;"></div>
 
@@ -194,7 +194,7 @@ For comparison, an total all-world market ([BNCH](https://www.etfreplay.com/etf/
 
 ## Important Notice
 
-> This page should not be taken as constituting professional advice from the author or otherwise. The author is not a financial adviser.
+> This document should not be taken as constituting professional advice from the author or otherwise. The author is not a financial adviser.
 >
 > You should consider seeking independent legal, financial, taxation or other advice to check how this information relates to your unique circumstances.
 >
